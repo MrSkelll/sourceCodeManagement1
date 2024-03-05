@@ -1,7 +1,7 @@
 /**********************************************************************
 Simon Dysart
 03/05/2024
-V: 1.0
+V: 2.0
 Sinclair CIS 1202 101
 Purpose: Literally just hello world. (A blast to the past if you will!)
 **********************************************************************/
@@ -11,7 +11,7 @@ using namespace std;
 
 int main()
 {
-	cout << "Hello, World" << endl;
+	cout << "Hello, Universe" << endl;
 
 	cin.get();
 	return 0;
